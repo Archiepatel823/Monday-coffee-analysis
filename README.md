@@ -1,4 +1,4 @@
-Monday Coffee Expansion SQL Project
+# Monday Coffee Expansion SQL Project
 ![1](https://github.com/user-attachments/assets/bbbd6fdc-b3f0-4041-9903-82ba718537db)
 
 
